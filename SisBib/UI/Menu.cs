@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 using SisBib.Negocio;
-using SisBib.Models;
+using SisBib.Modelos;
 
 namespace SisBib.UI
 {
