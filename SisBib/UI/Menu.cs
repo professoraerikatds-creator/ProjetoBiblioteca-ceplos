@@ -1,6 +1,6 @@
 using System;
 using System.Collections.Generic;
-using SisBib.Business;
+using SisBib.Negocio;
 using SisBib.Models;
 
 namespace SisBib.UI
