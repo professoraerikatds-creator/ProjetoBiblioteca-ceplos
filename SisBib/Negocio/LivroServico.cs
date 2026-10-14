@@ -1,7 +1,7 @@
-using SisBib.Data;
-using SisBib.Models;
+using SisBib.Dados;
+using SisBib.Modelos;
 
-namespace SisBib.Business
+namespace SisBib.Negocio
 {
     // A BLL contém as REGRAS DE NEGÓCIO e validações
     public class LivroService
