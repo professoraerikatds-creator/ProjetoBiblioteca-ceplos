@@ -1,4 +1,4 @@
-namespace SisBib.Models
+namespace SisBib.Modelos
 {
     public class Livro
     {
